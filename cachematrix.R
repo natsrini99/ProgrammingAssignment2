@@ -1,5 +1,5 @@
 ## Put comments here that give an overall description of what your
-## functions do
+## functions do 
 
 ## This code is written as part of the Coursera Programming assignment-2. 
 ## Requirement for the assignment is to cache the inverse of the matrix, by writing
@@ -9,7 +9,6 @@
 ## Second function "cacheSolve" will get the inverse of the matrix and cache the same.
 ## First time inverese is calculated and cached. From the next time, cached data will be
 ## fetched whenever inverse for the same matrix is expected
-##
 ##
 
 ## Write a short comment describing this function
